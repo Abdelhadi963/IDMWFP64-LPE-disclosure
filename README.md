@@ -1,4 +1,4 @@
-# IDMWFP64.sys — Vulnerability Disclosure
+# IDMWFP64.sys - Vulnerability Disclosure
 
 This repository is the public anchor for a coordinated vulnerability
 disclosure affecting `idmwfp64.sys`, the Windows kernel driver shipped
