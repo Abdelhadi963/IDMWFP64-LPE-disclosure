@@ -28,7 +28,7 @@ published here when the embargo closes.
 
 ## Researcher
 
-Abdelhadi Ech-chaibi — [@ippy0kai](https://github.com/Abdelhadi963)
+Abdelhadi Ech-chaibi - [@ippy0kai](https://github.com/Abdelhadi963)
 
 For coordinated disclosure inquiries, contact via the email associated
 with the CVE request.
